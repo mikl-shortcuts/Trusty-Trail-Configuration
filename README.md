@@ -1,4 +1,6 @@
-### Accessibility Settings
+Here are described all the categories and actions that **[Trusty Trail](https://routinehub.co/shortcut/21305/)** considers suspicious.
+
+### 🔴 Accessibility Settings
 
 * **Set LED Flash** 
 ```com.apple.AccessibilityUtilities.AXSettingsShortcuts.AXToggleLEDFlashIntent```
@@ -49,21 +51,21 @@
 * **Set Reduce Transparency** 
 ```com.apple.AccessibilityUtilities.AXSettingsShortcuts.AXToggleTransparencyIntent```
 
-### Passwords
+### 🔴 Passwords
 
 * **Set Hotspot Password** 
 ```is.workflow.actions.personalhotspot.password.set```
 * **Get Personal Hotspot Password** 
 ```is.workflow.actions.personalhotspot.password.get```
 
-### Apple Pay
+### 🔴 Apple Pay
 
 * **Send Payment** 
 ```is.workflow.actions.venmo.pay```
 * **Request Payment** 
 ```is.workflow.actions.venmo.request```
 
-### Information About the User
+### 🔴 Information About the User
 
 * **Get Battery Status** 
 ```is.workflow.actions.getbatterylevel```
@@ -102,7 +104,7 @@
 * **Find Cellular Plan** 
 ```com.apple.ShortcutsActions.CellularPlanEntity```
 
-### Device Management
+### 🔴 Device Management
 
 * **Set Wallpaper Photo** 
 ```is.workflow.actions.wallpaper.set```
@@ -119,14 +121,14 @@
 * **Vibrate Device** 
 ```is.workflow.actions.vibrate```
 
-### Home Controls
+### 🔴 Home Controls
 
 * **Toogle Accessory or Scene** 
 ```com.apple.Home.ToggleIntent```
 * **Control Home** 
 ```is.workflow.actions.homeaccessory```
 
-### Messages and Calls
+### 🟠 Messages and Calls
 
 * **Call** 
 ```com.apple.mobilephone.call```
@@ -137,7 +139,7 @@
 * **Send Email** 
 ```is.workflow.actions.sendemail```
 
-### Apps Settings
+### 🟠 Apps Settings
 
 * **Change Safari Settings** 
 ```com.apple.mobilesafari.WFAppSettingEntityUpdaterAction```
@@ -160,12 +162,12 @@
 * **Change Notes Setting** 
 ```com.apple.mobilenotes.ChangeSettingLinkAction```
 
-### Freeform Boards
+### 🟠 Freeform Boards
 
 * **Delete Boards** 
 ```com.apple.freeform.CRLDeleteBoardIntent```
 
-### Communication Management
+### 🟠 Communication Management
 
 * **Set Cellular Data** 
 ```is.workflow.actions.cellulardata.set```
@@ -190,7 +192,7 @@
 * **Get Network Details** 
 ```is.workflow.actions.getwifi```
 
-### Files
+### 🟠 Files
 
 * **Overwrite File** 
 ```com.sindresorhus.Actions.OverwriteFile```
@@ -203,19 +205,19 @@
 * **Delete Files** 
 ```is.workflow.actions.file.delete```
 
-### Reminders
+### 🟠 Reminders
 
 * **Remove Reminders** 
 ```is.workflow.actions.removereminders```
 * **Find Reminders** 
 ```is.workflow.actions.filter.reminders```
 
-### Journal
+### 🟠 Journal
 
 * **Search Journal Entries** 
 ```com.apple.journal.SearchEntriesIntent```
 
-### Shortcuts
+### 🟠 Shortcuts
 
 * **Get Shortcuts** 
 ```is.workflow.actions.getmyworkflows```
@@ -224,7 +226,7 @@
 * **Delete Shortcuts** 
 ```com.apple.shortcuts.DeleteWorkflowAction```
 
-### Notes
+### 🟠 Notes
 
 * **Delete Folders From Notes** 
 ```com.apple.mobilenotes.DeleteFoldersLinkAction```
@@ -237,7 +239,7 @@
 * **Remove Tags From Notes** 
 ```com.apple.mobilenotes.RemoveTagsFromNotesLinkAction```
 
-### Photos
+### 🟠 Photos
 
 * **Get Latest Live Photos** 
 ```is.workflow.actions.getlatestlivephotos```
@@ -266,14 +268,14 @@
 * **Delete Photos** 
 ```is.workflow.actions.deletephotos```
 
-### Health Data
+### 🟠 Health Data
 
 * **Find Health Samples** 
 ```is.workflow.actions.filter.health.quantity```
 * **Search in Health** 
 ```com.apple.Health.OpenSearchIntent```
 
-### Voice Memos
+### 🟠 Voice Memos
 
 * **Delete Voice Memos Recordings** 
 ```com.apple.VoiceMemos.DeleteRecording```
@@ -282,7 +284,7 @@
 * **Search In Voice Memos** 
 ```com.apple.VoiceMemos.SearchRecordings```
 
-### Controls Management
+### 🟡 Controls Management
 
 * **Set Night Shift** 
 ```is.workflow.actions.nightshift.set```
@@ -307,7 +309,7 @@
 * **Set Low Power Mode** 
 ```is.workflow.actions.lowpowermode.set```
 
-### Web
+### 🟡 Web
 
 * **Expand URL** 
 ```is.workflow.actions.url.expand```
