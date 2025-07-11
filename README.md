@@ -1,4 +1,4 @@
-### ![7](/images/7.png)
+### Accessibility Settings
 
 * **Set LED Flash** 
 ```com.apple.AccessibilityUtilities.AXSettingsShortcuts.AXToggleLEDFlashIntent```
@@ -48,19 +48,22 @@
 ```com.apple.AccessibilityUtilities.AXSettingsShortcuts.AXToggleReduceMotionIntent```
 * **Set Reduce Transparency** 
 ```com.apple.AccessibilityUtilities.AXSettingsShortcuts.AXToggleTransparencyIntent```
-### 8
+
+### Passwords
 
 * **Set Hotspot Password** 
 ```is.workflow.actions.personalhotspot.password.set```
 * **Get Personal Hotspot Password** 
 ```is.workflow.actions.personalhotspot.password.get```
-### 10
+
+### Apple Pay
 
 * **Send Payment** 
 ```is.workflow.actions.venmo.pay```
 * **Request Payment** 
 ```is.workflow.actions.venmo.request```
-### 14
+
+### Information About the User
 
 * **Get Battery Status** 
 ```is.workflow.actions.getbatterylevel```
@@ -98,7 +101,8 @@
 ```Clipboard```
 * **Find Cellular Plan** 
 ```com.apple.ShortcutsActions.CellularPlanEntity```
-### 17
+
+### Device Management
 
 * **Set Wallpaper Photo** 
 ```is.workflow.actions.wallpaper.set```
@@ -114,13 +118,15 @@
 ```is.workflow.actions.lockscreen```
 * **Vibrate Device** 
 ```is.workflow.actions.vibrate```
-### 18
+
+### Home Controls
 
 * **Toogle Accessory or Scene** 
 ```com.apple.Home.ToggleIntent```
 * **Control Home** 
 ```is.workflow.actions.homeaccessory```
-### 1
+
+### Messages and Calls
 
 * **Call** 
 ```com.apple.mobilephone.call```
@@ -130,7 +136,8 @@
 ```com.apple.facetime.facetime```
 * **Send Email** 
 ```is.workflow.actions.sendemail```
-### 20
+
+### Apps Settings
 
 * **Change Safari Settings** 
 ```com.apple.mobilesafari.WFAppSettingEntityUpdaterAction```
@@ -152,11 +159,13 @@
 ```com.apple.news.WFAppSettingEntityUpdaterAction```
 * **Change Notes Setting** 
 ```com.apple.mobilenotes.ChangeSettingLinkAction```
-### 2
+
+### Freeform Boards
 
 * **Delete Boards** 
 ```com.apple.freeform.CRLDeleteBoardIntent```
-### 3
+
+### Communication Management
 
 * **Set Cellular Data** 
 ```is.workflow.actions.cellulardata.set```
@@ -180,7 +189,8 @@
 ```com.apple.ShortcutsActions.SetDefaultCellularPlanAction```
 * **Get Network Details** 
 ```is.workflow.actions.getwifi```
-### 5
+
+### Files
 
 * **Overwrite File** 
 ```com.sindresorhus.Actions.OverwriteFile```
@@ -192,17 +202,20 @@
 ```is.workflow.actions.file.getfoldercontents```
 * **Delete Files** 
 ```is.workflow.actions.file.delete```
-### 6
+
+### Reminders
 
 * **Remove Reminders** 
 ```is.workflow.actions.removereminders```
 * **Find Reminders** 
 ```is.workflow.actions.filter.reminders```
-### 9
+
+### Journal
 
 * **Search Journal Entries** 
 ```com.apple.journal.SearchEntriesIntent```
-### 11
+
+### Shortcuts
 
 * **Get Shortcuts** 
 ```is.workflow.actions.getmyworkflows```
@@ -210,7 +223,8 @@
 ```com.apple.shortcuts.CreateShortcutiCloudLinkAction```
 * **Delete Shortcuts** 
 ```com.apple.shortcuts.DeleteWorkflowAction```
-### 12
+
+### Notes
 
 * **Delete Folders From Notes** 
 ```com.apple.mobilenotes.DeleteFoldersLinkAction```
@@ -222,7 +236,8 @@
 ```com.apple.mobilenotes.DeleteTagsLinkAction```
 * **Remove Tags From Notes** 
 ```com.apple.mobilenotes.RemoveTagsFromNotesLinkAction```
-### 15
+
+### Photos
 
 * **Get Latest Live Photos** 
 ```is.workflow.actions.getlatestlivephotos```
@@ -250,13 +265,15 @@
 ```is.workflow.actions.getlatestphotoimport```
 * **Delete Photos** 
 ```is.workflow.actions.deletephotos```
-### 16
+
+### Health Data
 
 * **Find Health Samples** 
 ```is.workflow.actions.filter.health.quantity```
 * **Search in Health** 
 ```com.apple.Health.OpenSearchIntent```
-### 19
+
+### Voice Memos
 
 * **Delete Voice Memos Recordings** 
 ```com.apple.VoiceMemos.DeleteRecording```
@@ -264,7 +281,8 @@
 ```com.apple.VoiceMemos.DeleteFolder```
 * **Search In Voice Memos** 
 ```com.apple.VoiceMemos.SearchRecordings```
-### 4
+
+### Controls Management
 
 * **Set Night Shift** 
 ```is.workflow.actions.nightshift.set```
@@ -288,7 +306,8 @@
 ```is.workflow.actions.dnd.set```
 * **Set Low Power Mode** 
 ```is.workflow.actions.lowpowermode.set```
-### 13
+
+### Web
 
 * **Expand URL** 
 ```is.workflow.actions.url.expand```
