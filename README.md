@@ -1,4 +1,11 @@
+# Trusty Trail Configuration
+
 Here are described all the categories and actions that **[Trusty Trail](https://routinehub.co/shortcut/21305/)** considers suspicious.
+
+---
+
+## Navigation
+- [Trusty Trail Configuration](#trusty-trail-cpnfiguration)
 
 ### 🔴 Accessibility Settings
 
