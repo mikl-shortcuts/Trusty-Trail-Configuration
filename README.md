@@ -5,7 +5,8 @@ Here are described all the categories and actions that **[Trusty Trail](https://
 ---
 
 ## Navigation
-- [Trusty Trail Configuration](#trusty-trail-cpnfiguration)
+- [Trusty Trail Configuration](#trusty-trail-configuration)
+  - [Navigation](#navigation)
 
 ### 🔴 Accessibility Settings
 
