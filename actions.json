@@ -486,5 +486,45 @@
   "is.workflow.actions.returntohomescreen": {
     "name": "Go to Home Screen",
     "type": "17"
+  },
+  "com.apple.mobilenotes.ChangeSettingLinkAction": {
+    "name": "Change Notes Setting",
+    "type": "20"
+  },
+  "com.apple.VoiceMemos.ChangeRecordingPlaybackSetting": {
+    "name": "Change Recording Playback Setting",
+    "type": "20"
+  },
+  "com.apple.iBooks.WFAppSettingEntityUpdaterAction": {
+    "name": "Change Books Settings",
+    "type": "20"
+  },
+  "com.apple.mobilecal.WFAppSettingEntityUpdaterAction": {
+    "name": "Change Calendar Settings",
+    "type": "20"
+  },
+  "com.apple.freeform.WFAppSettingEntityUpdaterAction": {
+    "name": "Change Freeform Settings",
+    "type": "20"
+  },
+  "com.apple.news.WFAppSettingEntityUpdaterAction": {
+    "name": "Change News Settings",
+    "type": "20"
+  },
+  "com.apple.reminders.WFAppSettingEntityUpdaterAction": {
+    "name": "Change Reminders Settings",
+    "type": "20"
+  },
+  "com.apple.mobilesafari.WFAppSettingEntityUpdaterAction": {
+    "name": "Change Safari Settings",
+    "type": "20"
+  },
+  "com.apple.VoiceMemos.WFAppSettingEntityUpdaterAction": {
+    "name": "Change Voice Memos Settings",
+    "type": "20"
+  },
+  "com.apple.weather.WFAppSettingEntityUpdaterAction": {
+    "name": "Change Weather Settings",
+    "type": "20"
   }
 }
