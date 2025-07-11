@@ -3,11 +3,15 @@
 Here are described all the categories and actions that **[Trusty Trail](https://routinehub.co/shortcut/21305/)** considers suspicious.
 
 ---
-
 ## Navigation
 - [Trusty Trail Configuration](#trusty-trail-configuration)
   - [Navigation](#navigation)
+  - [List of Categories](#list-of-categories)
+  - [List of Suspicious Actions](#list-of-suspicious-actions)
+---
+## List of Categories
 
+## List of Suspicious Actions
 ### 🔴 Accessibility Settings
 
 * **Set LED Flash** 
