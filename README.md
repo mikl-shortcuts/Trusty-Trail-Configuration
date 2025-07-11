@@ -1,4 +1,4 @@
-### 7
+### [7](/images/7.png)
 
 * **Set LED Flash** 
 ```com.apple.AccessibilityUtilities.AXSettingsShortcuts.AXToggleLEDFlashIntent```
