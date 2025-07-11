@@ -3,35 +3,28 @@
 Here are described all the categories and actions that **[Trusty Trail](https://routinehub.co/shortcut/21305/)** considers suspicious.
 
 ---
-## Navigation
-- [Trusty Trail Configuration](#trusty-trail-configuration)
-  - [Navigation](#navigation)
-  - [List of Categories](#list-of-categories)
-  - [List of Suspicious Actions](#list-of-suspicious-actions)
-
----
 ## List of Categories
 
 1. 🔴 [Accessibility Settings](#-accessibility-settings)
-2. 🔴 Passwords
-3. 🔴 Apple Pay
-4. 🔴 Information About the User
-5. 🔴 Device Management
-6. 🔴 Home Controls
-7. 🟠 Messages and Calls
-8. 🟠 Apps Settings
-9. 🟠 Freeform Boards
-10. 🟠 Communication Management
-11. 🟠 Files
-12. 🟠 Reminders
-13. 🟠 Journal
-14. 🟠 Shortcuts
-15. 🟠 Notes
-16. 🟠 Photos
-17. 🟠 Health Data
-18. 🟠 Voice Memos
-19. 🟡 Controls Management
-20. 🟡 Web
+2. 🔴 [Passwords](#-passwords)
+3. 🔴 [Apple Pay](#-apple-pay)
+4. 🔴 [Information About the User](#-information-about-the-user)
+5. 🔴 Device Management(#-device-management)
+6. 🔴 Home Controls(#-home-controls)
+7. 🟠 Messages and Calls(#-messages-and-calls)
+8. 🟠 Apps Settings(#-apps-settings)
+9. 🟠 Freeform Boards(#-freeform-boards)
+10. 🟠 Communication Management(#-communication-management)
+11. 🟠 Files(#-files)
+12. 🟠 Reminders(#-reminders)
+13. 🟠 Journal(#-journal)
+14. 🟠 Shortcuts(#-shortcuts)
+15. 🟠 Notes(#-notes)
+16. 🟠 Photos(#-photos)
+17. 🟠 Health Data(#-health-data)
+18. 🟠 Voice Memos(#-voice-memos)
+19. 🟡 Controls Management(#-controls-management)
+20. 🟡 Web(#-web)
 
 ---
 ## List of Suspicious Actions
