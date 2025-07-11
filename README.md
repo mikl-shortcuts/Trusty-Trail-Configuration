@@ -12,7 +12,7 @@ Here are described all the categories and actions that **[Trusty Trail](https://
 ---
 ## List of Categories
 
-1. 🔴 [Accessibility Settings](#accessibility-settings)
+1. 🔴 [Accessibility Settings](#🔴-accessibility-settings)
 2. 🔴 Passwords
 3. 🔴 Apple Pay
 4. 🔴 Information About the User
