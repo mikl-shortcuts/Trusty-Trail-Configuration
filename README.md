@@ -1,5 +1,7 @@
 # Trusty Trail Configuration
 
+![test](https://simpleicons.org/?modal=icon&q=telegram)
+
 Here are described all the categories and actions that **[Trusty Trail](https://routinehub.co/shortcut/21305/)** considers suspicious.
 
 ---
