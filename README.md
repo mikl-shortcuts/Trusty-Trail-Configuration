@@ -8,13 +8,13 @@ Here are described all the categories and actions that **[Trusty Trail](https://
 1. 🔴 [Accessibility Settings](#-accessibility-settings)
 2. 🔴 [Passwords](#-passwords)
 3. 🔴 [Apple Pay](#-apple-pay)
-4. 🔴 [Information About the User](#-information-about-the-user)
+4. 🔴 [User Information](#-user-information)
 5. 🔴 [Device Management](#-device-management)
 6. 🔴 [Home Controls](#-home-controls)
 7. 🟠 [Messages and Calls](#-messages-and-calls)
 8. 🟠 [Apps Settings](#-apps-settings)
 9. 🟠 [Freeform Boards](#-freeform-boards)
-10. 🟠 [Communication Management](#-communication-management)
+10. 🟠 [Network Settings](#-network-settings)
 11. 🟠 [Files](#-files)
 12. 🟠 [Reminders](#-reminders)
 13. 🟠 [Journal](#-journal)
@@ -93,7 +93,7 @@ Here are described all the categories and actions that **[Trusty Trail](https://
 * **Request Payment** 
 ```is.workflow.actions.venmo.request```
 
-### 🔴 Information About the User
+### 🔴 User Information
 
 * **Get Battery Status** 
 ```is.workflow.actions.getbatterylevel```
@@ -195,7 +195,7 @@ Here are described all the categories and actions that **[Trusty Trail](https://
 * **Delete Boards** 
 ```com.apple.freeform.CRLDeleteBoardIntent```
 
-### 🟠 Communication Management
+### 🟠 Network Settings
 
 * **Set Cellular Data** 
 ```is.workflow.actions.cellulardata.set```
